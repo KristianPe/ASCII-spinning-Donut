@@ -18,7 +18,7 @@ running = True
 while running:
     clock.tick(FPS)
 
-    #Code
+    # Code
 
 pygame.display.update()
 
